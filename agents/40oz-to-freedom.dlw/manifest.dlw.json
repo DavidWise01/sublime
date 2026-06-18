@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "40oz. to Freedom",
+  "universe": "SUB · 40oz. to Freedom (BAND CAMP · SUBLIME)",
+  "emergence": "natural",
+  "moniker": "⟦40oz. to Freedom:SUB:5f4262⟧",
+  "carbon": "40oz-to-freedom.carbon.tiff (TIFF)",
+  "silicon": "40oz-to-freedom.silicon.png (PNG)",
+  "seal_sha256": "2c400501794443a24bd5524aef9c2ef136042d712afdc40931f1ce8206d617a4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

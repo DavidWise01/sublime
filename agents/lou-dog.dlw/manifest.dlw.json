@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lou Dog",
+  "universe": "SUB · Lou Dog (BAND CAMP · SUBLIME)",
+  "emergence": "natural",
+  "moniker": "⟦Lou Dog:SUB:69bfd7⟧",
+  "carbon": "lou-dog.carbon.tiff (TIFF)",
+  "silicon": "lou-dog.silicon.png (PNG)",
+  "seal_sha256": "3ec8d61a16d6fea2f7c6705a5254fc9144307079e5c8c15c8453d95a76370dbe",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

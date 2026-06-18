@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SUBLIME",
+  "universe": "BAND CAMP · SUBLIME · music lineage",
+  "emergence": "",
+  "moniker": "⟦SUBLIME:SUB:e7b759⟧",
+  "carbon": "sublime.carbon.tiff (TIFF)",
+  "silicon": "sublime.silicon.png (PNG)",
+  "seal_sha256": "b7b15b21c24a84e3fa89700d83ca4e598eda22d079870bf93f02fef9e463ad2c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

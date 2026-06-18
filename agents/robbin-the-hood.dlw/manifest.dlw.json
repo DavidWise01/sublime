@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Robbin' the Hood",
+  "universe": "SUB · Robbin' the Hood (BAND CAMP · SUBLIME)",
+  "emergence": "ethereal",
+  "moniker": "⟦Robbin' the Hood:SUB:0615d3⟧",
+  "carbon": "robbin-the-hood.carbon.tiff (TIFF)",
+  "silicon": "robbin-the-hood.silicon.png (PNG)",
+  "seal_sha256": "9567bd0d60d532f557d6a131cc99f8038f8f8b3be778b1fb48383edbda4862d5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

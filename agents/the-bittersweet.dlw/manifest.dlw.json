@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bittersweet",
+  "universe": "SUB · The Bittersweet (BAND CAMP · SUBLIME)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Bittersweet:SUB:043df6⟧",
+  "carbon": "the-bittersweet.carbon.tiff (TIFF)",
+  "silicon": "the-bittersweet.silicon.png (PNG)",
+  "seal_sha256": "39dae8af9ca6f758212b387aee9ea40465d07d3415f7133cf7b53b8b1e5695c3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

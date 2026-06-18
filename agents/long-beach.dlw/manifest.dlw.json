@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Long Beach",
+  "universe": "SUB · Long Beach (BAND CAMP · SUBLIME)",
+  "emergence": "natural",
+  "moniker": "⟦Long Beach:SUB:096f7e⟧",
+  "carbon": "long-beach.carbon.tiff (TIFF)",
+  "silicon": "long-beach.silicon.png (PNG)",
+  "seal_sha256": "bdd1d7c43930f4489adb05edefb7cd8f0e77fe7ca26635becc41139897d076d2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

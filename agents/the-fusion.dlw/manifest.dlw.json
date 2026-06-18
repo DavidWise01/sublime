@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Fusion",
+  "universe": "SUB · The Fusion (BAND CAMP · SUBLIME)",
+  "emergence": "electrical",
+  "moniker": "⟦The Fusion:SUB:f6d1dc⟧",
+  "carbon": "the-fusion.carbon.tiff (TIFF)",
+  "silicon": "the-fusion.silicon.png (PNG)",
+  "seal_sha256": "5a4d366b3b28f8292a9c6b3ef71617eb00afb50e2fc0f76c2a31e0f4aab9c78f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
